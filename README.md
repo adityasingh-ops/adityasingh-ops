@@ -11,8 +11,8 @@ I'm Aditya Singh, a software developer with a passion for open-source projects a
 - ⚡ Fun fact: I love hiking and cricket
 
 ## 📈 GitHub Stats
-!Aditya,s GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true&theme=radical)
+!Aditya,s GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasingh-ops&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
-- LinkedIn: [linkedin.com/in/aditya-singh-9901a3286]([https://www.linkedin.com/in/johnsmith](https://www.linkedin.com/in/aditya-singh-9901a3286/))
+- LinkedIn: [linkedin.com/in/aditya-singh-9901a3286]([(https://www.linkedin.com/in/aditya-singh-9901a3286/)])
 
